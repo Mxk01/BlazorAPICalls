@@ -1,0 +1,12 @@
+C:\Users\rlunt\Desktop\BlazorProjects\BlazorEcommerceFullStack\BlazorEcommerceFullStack\Shared\bin\Debug\net6.0\BlazorEcommerceFullStack.Shared.deps.json
+C:\Users\rlunt\Desktop\BlazorProjects\BlazorEcommerceFullStack\BlazorEcommerceFullStack\Shared\bin\Debug\net6.0\BlazorEcommerceFullStack.Shared.dll
+C:\Users\rlunt\Desktop\BlazorProjects\BlazorEcommerceFullStack\BlazorEcommerceFullStack\Shared\bin\Debug\net6.0\BlazorEcommerceFullStack.Shared.pdb
+C:\Users\rlunt\Desktop\BlazorProjects\BlazorEcommerceFullStack\BlazorEcommerceFullStack\Shared\obj\Debug\net6.0\BlazorEcommerceFullStack.Shared.csproj.AssemblyReference.cache
+C:\Users\rlunt\Desktop\BlazorProjects\BlazorEcommerceFullStack\BlazorEcommerceFullStack\Shared\obj\Debug\net6.0\BlazorEcommerceFullStack.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rlunt\Desktop\BlazorProjects\BlazorEcommerceFullStack\BlazorEcommerceFullStack\Shared\obj\Debug\net6.0\BlazorEcommerceFullStack.Shared.AssemblyInfoInputs.cache
+C:\Users\rlunt\Desktop\BlazorProjects\BlazorEcommerceFullStack\BlazorEcommerceFullStack\Shared\obj\Debug\net6.0\BlazorEcommerceFullStack.Shared.AssemblyInfo.cs
+C:\Users\rlunt\Desktop\BlazorProjects\BlazorEcommerceFullStack\BlazorEcommerceFullStack\Shared\obj\Debug\net6.0\BlazorEcommerceFullStack.Shared.csproj.CoreCompileInputs.cache
+C:\Users\rlunt\Desktop\BlazorProjects\BlazorEcommerceFullStack\BlazorEcommerceFullStack\Shared\obj\Debug\net6.0\BlazorEcommerceFullStack.Shared.dll
+C:\Users\rlunt\Desktop\BlazorProjects\BlazorEcommerceFullStack\BlazorEcommerceFullStack\Shared\obj\Debug\net6.0\refint\BlazorEcommerceFullStack.Shared.dll
+C:\Users\rlunt\Desktop\BlazorProjects\BlazorEcommerceFullStack\BlazorEcommerceFullStack\Shared\obj\Debug\net6.0\BlazorEcommerceFullStack.Shared.pdb
+C:\Users\rlunt\Desktop\BlazorProjects\BlazorEcommerceFullStack\BlazorEcommerceFullStack\Shared\obj\Debug\net6.0\ref\BlazorEcommerceFullStack.Shared.dll

@@ -1,0 +1,60 @@
+﻿<!-- this HttpClient we inject so we can do API calls from our app -->
+@inject HttpClient Http;
+@using BlazorEcommerceFullStack.Shared.Models
+<h3>ProductsList</h3>
+<ul class="list-unstyled">
+    @foreach(var product in Products)
+    {
+       <li class="my-3 media">  
+           <div class="media-img-wrapper mr-2">
+               <a href="#">
+               <img class="media-img" src="@product.ImageUrl" alt="@product.Title"/>    
+               
+               </a>
+           </div>
+
+
+           <div class="media-body">
+               <a href="#">
+                   <h4 class="mb-0">
+                       @product.Title
+                   </h4>
+               </a>
+               <p>@product.Description</p>
+               <h5 class="price">@product.Price</h5>
+           </div>
+ 
+      </li>
+    }
+   
+
+
+</ul>
+@code {
+    // so basically we use the model that we made (the Product class)
+    // to make a list of Products ,which we can render
+    private static List<Product> Products = new List<Product>();
+
+
+    protected override async Task  OnInitializedAsync()
+    {
+        // so now remember we set all the products in our 
+        // productsController 
+
+        // and we have an empty products List here so we want to populate it
+        var result = await Http.GetFromJsonAsync<List<Product>>("api/Products");
+        // checking if the response we get from  the get method isn't null
+        if(result!=null)
+        {
+            // so here our list will be displayed from JSON
+            // cause we loop through Products
+            Products = result;
+        }
+
+    }
+
+
+
+
+    }
+}
